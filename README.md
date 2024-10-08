@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Kushagra Bhardwaj
+Hi 👋, I'm Kushagra Bhardwaj \n
 Aspiring Software Engineer | Enthusiastic about Coding, AI | Loves to watch Anime
 
 
