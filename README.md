@@ -1,6 +1,7 @@
 # 💫 About Me:
-Hi 👋, I'm Kushagra Bhardwaj
-*Aspiring Software Engineer | Enthusiastic about Coding, AI | Loves to watch Anime
+Hi 👋, I'm Kushagra Bhardwaj a BTech Scholar.
+
+# Aspiring Software Engineer | Enthusiastic about Coding, AI | Loves to watch Anime
 
 
 ## 🌐 Socials:
