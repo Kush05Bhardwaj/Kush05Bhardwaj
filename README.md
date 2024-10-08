@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a first-year BTech student in Computer Science Engineering<br>I'm passionate about programming and exploring the tech world.
+Hi 👋, I'm Kushagra Bhardwaj
+Aspiring Software Engineer | Enthusiastic about Coding, AI | Loves to watch Anime
 
 
 ## 🌐 Socials:
