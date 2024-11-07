@@ -1,5 +1,6 @@
 # 💫 About Me:
-### Hi 👋, I'm Kushagra Bhardwaj a BTech Scholar.
+### Hi 👋, Kushagra Bhardwaj here.
+### Computer Science \& Engineering Undergrad.
 
 #### Aspiring Software Engineer | Enthusiastic about Coding, AI | Loves to watch Anime
 
