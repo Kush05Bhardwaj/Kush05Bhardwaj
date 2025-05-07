@@ -8,7 +8,7 @@
 
 #### Aspiring Software Engineer | Enthusiastic about Coding, AI | Loves to watch Anime
 
-##### I am currently learning Large Language Models.
+##### I am currently learning LLMs and NLP.
 
 
 ## 🌐 Socials:
