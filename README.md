@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, <br>I'm Kushagra Bhardwaj.<br><br>Computer Science & Engineering Undergrad.<br>Aspiring Software Engineer | Enthusiastic about Coding, AI | Loves to watch Anime<br>Figuring out LLMs and NLP.<br>Also have a interest in Game Development.<br>Learning Unreal Engine and C++.
+Hi 👋, <br>I'm Kushagra Bhardwaj.<br><br>Computer Science & Engineering Undergrad.<br>Aspiring Software Engineer | Enthusiastic about Coding, AI | Loves to watch Anime<br>Figuring out LLMs and NLP.<br>Also have a interest in Game Development.<br>Learning Java and DSA.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kush2012bhardwaj/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kush2012bhardwaj@gmail.com) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_kushagra.bdj/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Kush05Bhardwaj) 
