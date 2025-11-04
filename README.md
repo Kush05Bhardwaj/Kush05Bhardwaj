@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋,<br>I'm Kushagra Bhardwaj.<br><br>Computer Science & Engineering Undergrad.<br>Aspiring Software Engineer | Enthusiastic about Coding, AI | Loves to watch Anime<br>Figuring out LLMs and NLP.<br>Learning Java and DSA.
+Hi 👋,<br>I'm Kushagra Bhardwaj.<br><br>Computer Science & Engineering Undergrad.<br>Aspiring AI Software Engineer | Enthusiastic about Coding, AI | Loves to watch Anime<br>Figuring out LLMs and NLP.<br>Learning Machine Learning and DSA.
 
 
 # 💻 Tech Stack:
