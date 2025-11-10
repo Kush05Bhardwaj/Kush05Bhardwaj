@@ -11,9 +11,4 @@ Hi 👋,<br>I'm Kushagra Bhardwaj.<br><br>Computer Science & Engineering Undergr
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kush05Bhardwaj&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4)
-
----
-[![](https://visitcount.itsvg.in/api?id=Kush05Bhardwaj&icon=0&color=0)](https://visitcount.itsvg.in)
----
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
