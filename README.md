@@ -3,7 +3,7 @@
 **Hi 👋, I'm Kushagra Bhardwaj**
 **Computer Science & Engineering Undergrad**  
 **Aspiring AI Software Engineer | Enthusiastic about Coding, AI**  
-*Somewhere between anime logic and machine learning… 🤖🌃*
+*Somewhere between anime logic and machine learning… 🤖🌃* \n
 I’m a developer who loves creating intelligent, scalable systems that blend **AI/ML**, **LLMs**, and **full-stack engineering**.  
 Currently diving deep into **Machine Learning, DSA, and Linux** while building projects that push both creativity and performance.
 
