@@ -1,8 +1,7 @@
 ## 🚀 About Me
 
 **Hi 👋, I'm Kushagra Bhardwaj**
-**Computer Science & Engineering Undergrad**  
-**Aspiring AI Software Engineer | Enthusiastic about Coding, AI**  
+**Computer Science & Engineering Undergrad | Aspiring AI Software Engineer | Enthusiastic about Coding, AI**  
 *Somewhere between anime logic and machine learning… 🤖🌃*
 
 I’m a developer who loves creating intelligent, scalable systems that blend **AI/ML**, **LLMs**, and **full-stack engineering**.  
