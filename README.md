@@ -38,13 +38,3 @@ Currently diving deep into **Machine Learning, DSA, and Linux** while building p
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Kush05Bhardwaj&theme=midnight-purple&no-frame=true&no-bg=true&margin-w=4)
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/output/github-snake.svg" />
-</picture>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
