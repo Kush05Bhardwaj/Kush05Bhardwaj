@@ -3,7 +3,6 @@
 **Hi 👋, I'm Kushagra Bhardwaj**  
 
 I’m a developer who loves creating intelligent, scalable systems that blend **AI/ML**, **LLMs**, and **full-stack engineering**.  
-*Somewhere between anime logic and machine learning… 🤖🌃*
 Currently diving deep into **Machine Learning, DSA, and Linux** while building projects that push both creativity and performance.
 
 ---
