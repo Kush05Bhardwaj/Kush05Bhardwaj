@@ -92,7 +92,7 @@ Currently diving deep into Machine Learning, DSA, and Linux while building proje
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
