@@ -104,7 +104,7 @@ Currently diving deep into Machine Learning, DSA, and Linux while building proje
 
 ###
 
-<div align="center">
+<div>
   <img height="200" src="code.png"  />
 </div>
 
