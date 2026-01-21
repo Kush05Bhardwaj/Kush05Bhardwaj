@@ -94,11 +94,13 @@ Currently diving deep into Machine Learning, DSA, and Linux while building proje
 
 <img src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/output/github-snake-dark.svg" alt="Snake animation" />
 
-###
+<div align="left">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush05Bhardwaj&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kush05Bhardwaj&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Kush05Bhardwaj&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+![](https://github-readme-stats.vercel.app/api?username=Kush05Bhardwaj&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Kush05Bhardwaj&theme=tokyonight&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kush05Bhardwaj&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+
 </div>
 
-###
