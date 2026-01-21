@@ -5,8 +5,6 @@
 I’m a developer who loves creating intelligent, scalable systems that blend **AI/ML**, **LLMs**, and **full-stack engineering**.  
 Currently diving deep into **Machine Learning, DSA, and Linux** while building projects that push both creativity and performance.
 
----
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kush05bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="kush05bhardwaj" /> </p>
 
 ---
