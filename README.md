@@ -95,12 +95,10 @@ Currently diving deep into Machine Learning, DSA, and Linux while building proje
 <img src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/output/github-snake-dark.svg" alt="Snake animation" />
 
 <div align="left">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush05Bhardwaj&radius=16&theme=tokyo-night&area=true&order=5" height="300" alt="activity-graph graph"  />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush05Bhardwaj&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
 
-![](https://github-readme-stats.vercel.app/api?username=Kush05Bhardwaj&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false)<br/>
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Kush05Bhardwaj&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kush05Bhardwaj&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
