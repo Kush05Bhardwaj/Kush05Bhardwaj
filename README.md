@@ -7,6 +7,10 @@ Currently diving deep into **Machine Learning, DSA, and Linux** while building p
 
 ---
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kush05bhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="kush05bhardwaj" /> </p>
+
+---
+
 ## 🧠 What I’m Learning
 - Machine Learning, Deep Learning  
 - LLMs, RAG, Vector Databases  
