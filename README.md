@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! I'm Kushagra Bhardwaj</h1>
+<h1 align="left">Hi! 👋 I'm Kushagra Bhardwaj</h1>
 
 <h4>I’m a developer who loves creating intelligent, scalable systems that blend AI/ML, LLMs, and full-stack development.  
 Currently diving deep into Machine Learning, DSA, and Linux while building projects that push both creativity and performance.</h4>
