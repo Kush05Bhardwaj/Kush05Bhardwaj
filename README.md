@@ -24,7 +24,6 @@ Currently diving deep into Machine Learning, DSA, and Linux while building proje
 <div align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush05Bhardwaj&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
   
-![](https://nirzak-streak-stats.vercel.app/?user=Kush05Bhardwaj&theme=tokyonight&hide_border=true)<br/>
 </div>
 
 <div>
