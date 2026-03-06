@@ -5,10 +5,9 @@ Currently diving deep into Machine Learning, DSA, and Linux while building proje
 
 ### 🧠 What I’m Learning
 - Machine Learning, Deep Learning  
-- LLMs, RAG, Vector Databases  
-- MERN stack architecture  
+- LLMs, RAG, Vector Databases
 - System design & optimization  
-- Linux + DevOps basics  
+- Linux + DSA  
 
 ###
 
