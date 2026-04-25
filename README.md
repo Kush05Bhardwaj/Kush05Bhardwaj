@@ -3,7 +3,11 @@
 <h4>I’m a developer who loves creating intelligent, scalable systems that blend AI/ML, LLMs, and full-stack development.  
 Currently diving deep into Machine Learning, DSA, and Linux while building projects that push both creativity and performance.</h4>
 
-  
+### 🧠 What I’m Learning
+- Machine Learning, Deep Learning  
+- LLMs, RAG, Vector Databases
+- System design & optimization  
+- Linux + DSA  
 
 ###
 
