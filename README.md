@@ -1,7 +1,6 @@
 <h1 align="left">Hi! 👋 I'm Kushagra Bhardwaj</h1>
 
-<h4>I’m a developer who loves creating intelligent, scalable systems that blend AI/ML, LLMs, and full-stack development.  
-Currently diving deep into Machine Learning, DSA, and Linux while building projects that push both creativity and performance.</h4>
+<h4>CSE student building AI/ML systems, LLM applications, and scalable software. Currently focused on Machine Learning, Deep Learning, DSA, Linux, and understanding how intelligent systems work under the hood.</h4>
 
 ### 🧠 What I’m Learning
 - Machine Learning, Deep Learning  
