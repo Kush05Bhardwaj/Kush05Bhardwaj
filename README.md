@@ -3,10 +3,12 @@
 <h4>CSE student building AI/ML systems, LLM applications, and scalable software. Currently focused on Machine Learning, Deep Learning, DSA, Linux, and understanding how intelligent systems work under the hood.</h4>
 
 ### 🧠 What I’m Learning
-- Machine Learning, Deep Learning  
-- LLMs, RAG, Vector Databases
-- System design & optimization  
-- Linux + DSA  
+- Machine Learning & Deep Learning
+- LLMs, RAG & AI Agents
+- PyTorch & Transformers
+- DSA & Problem Solving
+- Linux, Systems & Performance
+- AI-powered applications
 
 ###
 
