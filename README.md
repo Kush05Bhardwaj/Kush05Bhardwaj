@@ -44,10 +44,9 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-### 📈 Stats:
+### 📈 GitHub Activity:
 <img src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/output/github-snake-dark.svg" alt="Snake animation" />
 <div align="left">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush05Bhardwaj&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
@@ -70,4 +69,6 @@ Full Stack      █████████████░░░░░░░  Su
   <img height="250" src="code.png"  />
 </div>
 
-</p> <p align="center"> <i>Building, breaking, learning, and building again.</i> 🚀 </p>
+<p align="center">
+  <i>Building intelligent systems, breaking things, and learning along the way.</i> 🚀
+</p>
