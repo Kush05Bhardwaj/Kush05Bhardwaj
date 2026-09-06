@@ -47,12 +47,13 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 
-### 📈 Stats:
-### 📈 GitHub Activity:
-<img src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/output/github-snake-dark.svg" alt="Snake animation" />
-<div align="left">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kush05Bhardwaj&radius=16&theme=tokyo-night&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph" />
+## 🚀 GitHub Presence
 
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/main/metrics/github-metrics.svg"
+    alt="GitHub Metrics"
+  />
 </div>
 
 ---
