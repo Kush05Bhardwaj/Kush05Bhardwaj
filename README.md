@@ -58,6 +58,17 @@
 
 ---
 
+## 🎮 3D Contribution Calendar
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/main/metrics/isocalendar.svg"
+    alt="3D Contribution Calendar"
+  />
+</div>
+
+---
+
 ### 🎯 The Direction I'm Taking
 
 ```text
