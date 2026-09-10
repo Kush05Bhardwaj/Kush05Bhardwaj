@@ -52,3 +52,24 @@ jobs:
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+
+  anilist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate AniList Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: NOT_NEEDED
+          user: Kush05Bhardwaj
+
+          filename: metrics/anilist.svg
+
+          base: ""
+
+          plugin_anilist: yes
+          plugin_anilist_user: kush2012bhardwaj
+          plugin_anilist_medias: anime
+          plugin_anilist_sections: favorites, watching
+          plugin_anilist_limit: 5
+          plugin_anilist_shuffle: yes
