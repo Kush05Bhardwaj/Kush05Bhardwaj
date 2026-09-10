@@ -69,17 +69,6 @@
 
 ---
 
-## 🌸 Anime Corner
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/main/metrics/anilist.svg"
-    alt="AniList Activity"
-  />
-</div>
-
----
-
 ### 🎯 The Direction I'm Taking
 
 ```text
