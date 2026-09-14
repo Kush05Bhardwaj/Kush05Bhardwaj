@@ -1,20 +1,39 @@
-<h1 align="left">Hi! 👋 I'm Kushagra Bhardwaj</h1>
+<h1 align="center">Hi! 👋 I'm Kushagra Bhardwaj</h1>
 
-<h4>CSE student building AI/ML systems, LLM applications, and scalable software. Currently focused on Machine Learning, Deep Learning, DSA, Linux, and understanding how intelligent systems work under the hood.</h4>
+<p align="center">
+  <em>CSE student building AI/ML systems, LLM applications, and scalable software.</em><br/>
+  Currently focused on Machine Learning, Deep Learning, DSA, Linux, and understanding how intelligent systems work under the hood.
+</p>
 
-### 🧠 What I’m Learning
-- Machine Learning & Deep Learning
-- LLMs, RAG & AI Agents
-- PyTorch & Transformers
-- DSA & Problem Solving
-- Linux, Systems & Performance
-- AI-powered applications
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Kush05Bhardwaj&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/Kush05Bhardwaj?label=Followers&style=social" alt="followers" />
+</p>
 
-###
+---
 
-<img align="right" height="150" src="giphy.gif"  />
+## 🔥 Currently Building
 
-### 💻 Tech Stack
+> **AI Agent Framework** — A modular LLM agent system with tool use, memory, and RAG capabilities  
+> **Open to** internships, research collaborations, and open-source contributions in AI/ML
+
+---
+
+## 🧠 What I'm Learning
+
+| Area | Focus |
+|------|-------|
+| 🤖 AI / ML | Machine Learning, Deep Learning, PyTorch, Transformers |
+| 🧬 GenAI | LLMs, RAG pipelines, AI Agents |
+| 📐 CS Fundamentals | DSA & Problem Solving |
+| 🐧 Systems | Linux, Performance & Systems Programming |
+| 🌐 Web | Full-stack with React, Next.js, FastAPI |
+
+---
+
+<img align="right" height="150" src="giphy.gif" />
+
+## 💻 Tech Stack
 
 #### 🤖 AI / ML
 
@@ -44,32 +63,59 @@
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
+---
 
-## 🚀 GitHub Presence
+## 🚀 Featured Projects
+
+> ⚠️ **Replace these placeholders with your actual projects!**
+
+| Project | Description | Stack | Link |
+|---------|-------------|-------|------|
+| 🤖 **Project 1** | Brief description of what it does | Python, PyTorch | [Repo](#) |
+| 🧬 **Project 2** | Brief description of what it does | FastAPI, LangChain | [Repo](#) |
+| 🌐 **Project 3** | Brief description of what it does | Next.js, MongoDB | [Repo](#) |
+
+---
+
+## 📊 GitHub Presence & Contributions
+
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>🚀 GitHub Metrics</b><br/><br/>
+      <img
+        src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/main/metrics/github-metrics.svg"
+        alt="GitHub Metrics"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <b>🎮 3D Contribution Calendar</b><br/><br/>
+      <img
+        src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/main/metrics/isocalendar.svg"
+        alt="3D Contribution Calendar"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🌸 Anime Corner
 
 <div align="center">
   <img
-    src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/main/metrics/github-metrics.svg"
-    alt="GitHub Metrics"
+    src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/main/metrics/anilist.svg"
+    alt="AniList Anime Stats"
   />
 </div>
 
 ---
 
-## 🎮 3D Contribution Calendar
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/main/metrics/isocalendar.svg"
-    alt="3D Contribution Calendar"
-  />
-</div>
-
----
-
-### 🎯 The Direction I'm Taking
+## 🎯 The Direction I'm Taking
 
 ```text
 AI / ML         ████████████████████  Main Focus
@@ -79,11 +125,31 @@ Linux / Systems ███████████████░░░░░  Le
 Full Stack      █████████████░░░░░░░  Supporting Skill
 ```
 
-<div>
-  <img height="250" src="code.png"  />
+---
+
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://github.com/Kush05Bhardwaj" target="_blank">
+    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img height="250" src="code.png" />
 </div>
 
-</p> <p align="center"> <i>Building, breaking, learning, and building again.</i> 🚀 </p>
 <p align="center">
   <i>Building intelligent systems, breaking things, and learning along the way.</i> 🚀
 </p>
