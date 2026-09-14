@@ -15,25 +15,14 @@
 ## 🔥 Currently Building
 
 > **Alisa** — A fully local AI desktop companion with voice, vision & desktop automation
+> 
 > **Open to** internships, research collabs, and open-source work in AI/ML & Security
 
 ---
 
-## 🧠 What I'm Learning
-
-| Area | Focus |
-|------|-------|
-| 🤖 AI / ML | Machine Learning, Deep Learning, PyTorch, Transformers |
-| 🧬 GenAI | LLMs, RAG pipelines, AI Agents |
-| 📐 CS Fundamentals | DSA & Problem Solving |
-| 🐧 Systems | Linux, Performance & Systems Programming |
-| 🌐 Web | Full-stack with React, Next.js, FastAPI |
-
----
+## 💻 Tech Stack
 
 <img align="right" height="150" src="giphy.gif" />
-
-## 💻 Tech Stack
 
 #### 🤖 AI / ML
 
@@ -161,41 +150,10 @@
 
 ---
 
-## 🎯 The Direction I'm Taking
-
-```text
-AI / ML         ████████████████████  Main Focus
-LLMs / GenAI    ██████████████████░░  Exploring
-DSA             ████████████████░░░░  Building Fundamentals
-Linux / Systems ███████████████░░░░░  Learning
-Full Stack      █████████████░░░░░░░  Supporting Skill
-```
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" alt="Twitter"/>
-  </a>
-  <a href="https://github.com/Kush05Bhardwaj" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
-
----
-
 <div align="center">
   <img height="250" src="code.png" />
 </div>
 
 <p align="center">
-  <i>Building intelligent systems, breaking things, and learning along the way.</i> 🚀
+  <i>Somewhere between anime logic and machine learning.....🤖🌃💻</i>
 </p>
