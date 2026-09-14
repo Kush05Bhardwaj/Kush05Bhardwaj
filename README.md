@@ -69,13 +69,45 @@
 
 ## 🚀 Featured Projects
 
-> ⚠️ **Replace these placeholders with your actual projects!**
-
-| Project | Description | Stack | Link |
-|---------|-------------|-------|------|
-| 🤖 **Project 1** | Brief description of what it does | Python, PyTorch | [Repo](#) |
-| 🧬 **Project 2** | Brief description of what it does | FastAPI, LangChain | [Repo](#) |
-| 🌐 **Project 3** | Brief description of what it does | Next.js, MongoDB | [Repo](#) |
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 Alisa — AI Local LLM Desktop Companion</h3>
+      <p>A fully local AI desktop companion with an animated avatar, natural voice conversation, webcam presence detection, and intelligent desktop integration. Everything runs on your machine — completely private.</p>
+      <b>Highlights:</b>
+      <ul>
+        <li>🎭 Animated avatar with 6 emotions & talking animations</li>
+        <li>🗣️ Voice I/O — Edge TTS (40+ voices) + Faster Whisper STT</li>
+        <li>👁️ Webcam presence & attention tracking</li>
+        <li>🖥️ Desktop understanding — detects active apps, files & errors</li>
+        <li>🎮 Safe desktop automation (apps, browser, keyboard/mouse)</li>
+        <li>🧠 Persistent memory with SQLite + habit learning</li>
+      </ul>
+      <b>Stack:</b> Python · FastAPI · llama.cpp · OpenCV · SQLite · Tkinter · Edge TTS · Faster Whisper<br/><br/>
+      <a href="https://github.com/Kush05Bhardwaj/Alisa-AI_Local_LLM_Desktop_Companion">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <img src="https://img.shields.io/github/stars/Kush05Bhardwaj/Alisa-AI_Local_LLM_Desktop_Companion?style=social"/>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 AIris Security — AI-Powered Vulnerability Scanner</h3>
+      <p>An AI-powered security scanner that runs Nmap, Nikto, SSLScan & DirSearch in parallel, scores risk with a hybrid ML engine (Random Forest + NLP), and generates detailed PDF reports with remediation advice.</p>
+      <b>Highlights:</b>
+      <ul>
+        <li>⚡ Parallel scanning with Nmap, Nikto, SSLScan & DirSearch</li>
+        <li>🧠 Hybrid ML risk scoring — Random Forest + NLP</li>
+        <li>📄 Auto-generated PDF reports with remediation steps</li>
+        <li>🌐 Full-stack web dashboard for scan management</li>
+        <li>🗄️ MongoDB-backed scan history & result storage</li>
+      </ul>
+      <b>Stack:</b> Python · FastAPI · Next.js · MongoDB · Scikit-learn · Nmap · Nikto · SSLScan<br/><br/>
+      <a href="https://github.com/Kush05Bhardwaj/AIris-Security_AI-Powered-Vulnerability-Scanner">
+        <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+      <img src="https://img.shields.io/github/stars/Kush05Bhardwaj/AIris-Security_AI-Powered-Vulnerability-Scanner?style=social"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -104,14 +136,28 @@
 
 ---
 
-## 🌸 Anime Corner
+## 🌸 Anime & 🎵 Music
 
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/main/metrics/anilist.svg"
-    alt="AniList Anime Stats"
-  />
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <b>🌸 Anime Corner</b><br/><br/>
+      <img
+        src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/main/metrics/anilist.svg"
+        alt="AniList Anime Stats"
+        width="100%"
+      />
+    </td>
+    <td width="50%" align="center">
+      <b>🎵 Recently Listened</b><br/><br/>
+      <img
+        src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/main/metrics/music.svg"
+        alt="Recently Listened"
+        width="100%"
+      />
+    </td>
+  </tr>
+</table>
 
 ---
 
