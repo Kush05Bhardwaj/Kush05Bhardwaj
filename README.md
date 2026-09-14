@@ -1,8 +1,8 @@
 <h1 align="center">Hi! 👋 I'm Kushagra Bhardwaj</h1>
 
 <p align="center">
-  <em>CSE student building AI/ML systems, LLM applications, and scalable software.</em><br/>
-  Currently focused on Machine Learning, Deep Learning, DSA, Linux, and understanding how intelligent systems work under the hood.
+  <em>CSE student shipping AI/ML systems, LLM agents, and full-stack apps.</em><br/>
+  Currently deep in Machine Learning, Deep Learning, LLMs, DSA & Linux — obsessed with how intelligent systems actually work.
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
 
 ## 🔥 Currently Building
 
-> **AI Agent Framework** — A modular LLM agent system with tool use, memory, and RAG capabilities  
-> **Open to** internships, research collaborations, and open-source contributions in AI/ML
+> **Alisa** — A fully local AI desktop companion with voice, vision & desktop automation
+> **Open to** internships, research collabs, and open-source work in AI/ML & Security
 
 ---
 
