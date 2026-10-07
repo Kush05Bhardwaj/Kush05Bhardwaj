@@ -123,6 +123,10 @@
   </tr>
 </table>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/output/github-snake-dark.svg" alt="Snake animation" />
+</dev>
+
 ---
 
 ## 🌸 Anime & 🎵 Music
