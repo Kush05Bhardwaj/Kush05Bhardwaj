@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi! 👋 I'm Kushagra Bhardwaj</h1>
 
 <p align="center">
@@ -126,6 +127,9 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Kush05Bhardwaj/Kush05Bhardwaj/output/github-snake-dark.svg" alt="Snake animation" />
 </dev>
+<div align="center">
+  <img src="./profile/trophy.svg" alt="GitHub Trophies" />
+</div>
 
 ---
 
