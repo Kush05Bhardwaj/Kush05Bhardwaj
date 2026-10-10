@@ -13,7 +13,7 @@
 
 ---
 
-## 🔥 Currently Building
+## Currently Building
 
 > **Alisa** — A fully local AI desktop companion with voice, vision & desktop automation
 > 
@@ -57,7 +57,7 @@
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <table width="100%">
   <tr>
