@@ -3,7 +3,7 @@
 
 <p align="center">
   <em>CSE student shipping AI/ML systems, LLM agents, and full-stack apps.</em><br/>
-  Currently deep in Machine Learning, Deep Learning, LLMs, DSA & Linux — obsessed with how intelligent systems actually work.
+  Obsessed with how intelligent systems actually work.
 </p>
 
 <p align="center">
