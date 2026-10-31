@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/github/followers/Kush05Bhardwaj?label=Followers&style=social" alt="followers" />
 </p>
 
-# GIF Test
-
-![Anime GIF](./giphy.gif)
 
 ---
 
