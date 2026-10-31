@@ -2,8 +2,9 @@
 <h1 align="center">Hi! 👋 I'm Kushagra Bhardwaj</h1>
 
 <p align="center">
-  <em>CSE student shipping AI/ML systems, LLM agents, and full-stack apps.</em><br/>
-  Obsessed with how intelligent systems actually work.
+  <em>CSE student building AI/ML systems, LLM agents, and full-stack apps.</em><br/>
+  Building useful software, exploring intelligent systems, and turning ideas into working products.
+
 </p>
 
 <p align="center">
@@ -150,7 +151,7 @@
 ---
 
 ## Beyond the Terminal
-When I'm not coding, I'm probably exploring anime, experimenting with 3D design, or thinking about the next side project.
+When I'm not coding, I'm probably watching anime or thinking about some random side project.
 
 <table width="100%">
   <tr>
