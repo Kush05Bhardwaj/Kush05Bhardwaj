@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://ghchart.rshah.org/Kush05Bhardwaj" alt="GitHub Contribution Graph" width="100%"/>
+</p>
+
+
 
 <h1 align="center">Hi! 👋 I'm Kushagra Bhardwaj</h1>
 
