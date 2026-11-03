@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://ghchart.rshah.org/Kush05Bhardwaj" alt="GitHub Contribution Graph" width="100%"/>
-</p>
 
 
 
