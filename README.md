@@ -183,7 +183,7 @@ When I'm not coding, I'm probably watching anime or thinking about some random s
 </div>
 
 <p align="center">
-  <i>Somewhere between anime logic and machine learning.....🤖🌃💻</i>
+  <i>Stuck somewhere between anime logic and machine learning.....🤖🌃💻</i>
 </p>
 
 <div align="center">
